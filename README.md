@@ -1,2 +1,2 @@
-# l-gica-de-programa-o
+# logica de programacao
 resolução de exercícios de lógica de programação
